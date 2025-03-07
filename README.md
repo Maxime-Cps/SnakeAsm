@@ -17,5 +17,10 @@
 
 ### How To Play
 
-- Download the .jar file ![Mars4_5.jar](Mars4_5.jar)
-- 
+- Download the .jar file [Mars4_5.jar](Mars4_5.jar)
+- Execute Mars
+- Open the [snake.asm](snake.asm) file in Mars
+- Go to Tools > BitMap Display
+- Set the Unit Width and Height to **16**
+- Set the Display Width and Height to **256**
+- Go to TOO
